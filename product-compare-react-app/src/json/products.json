@@ -1,0 +1,96 @@
+{
+  "ParametricList_Attributes": [{
+      "dataField": "Model",
+      "text": "Model"
+    },
+    {
+      "dataField": "Screen",
+      "text": "Screen"
+    },
+    {
+      "dataField": "Resolution",
+      "text": "Resolution"
+    },
+    {
+      "dataField": "Memory",
+      "text": "Memory"
+    },
+    {
+      "dataField": "Connectivity",
+      "text": "Connectivity"
+    },
+    {
+      "dataField": "Battery",
+      "text": "Battery"
+    },
+    {
+      "dataField": "Price",
+      "text": "Price"
+    }
+  ],
+  "ParametricList_Filter_Attributes": [{
+    "Battery": "Battery",
+    "Screen": "Screen"
+  }],
+  "Products": [{
+      "Model": "Amazfit Stratos",
+      "Screen": "LCD 1.34 Inch",
+      "Resolution": "320 x 300",
+      "Memory": "512MB Ram, 4GB Internal",
+      "Connectivity": "Bluetooth, GPS, Wifi, USB",
+      "Battery": "280mAh – Up to 5 Days",
+      "Sensors": "Heart Rate Sensor, Accelerometer, Gyro, Barometer, Compass",
+      "Tracking": "Steps, Calories, Heart Rate, Distance, Speed, Sleep Quality",
+      "Notifications": "Yes – Vibration Feedback and On Screen Alerts",
+      "WaterResistance": "50m",
+      "videoId": "mhN2F51x0Vg",
+      "Price": "$$$",
+      "url": "../img/products/amazfit-stratos.png"
+    },
+    {
+      "Model": "Amazfit Pace",
+      "Screen": "LCD 1.34 Inch",
+      "Resolution": "320 x 300",
+      "Memory": "512MB Ram, 4GB Internal",
+      "Connectivity": "Bluetooth, GPS, Wifi, USB",
+      "Battery": "280mAh – Up to 6 Days",
+      "Sensors": "Heart Rate Sensor, Accelerometer, Gyro, Barometer, Compass",
+      "Tracking": "Steps, Calories, Heart Rate, Distance, Speed, Sleep Quality",
+      "Notifications": "Yes – Vibration Feedback and On Screen Alerts",
+      "WaterResistance": "IP67 - Splash Resistant",
+      "videoId": "jt_OBSn4j6Q",
+      "Price": "$$$",
+      "url": "../img/products/amazfit-pace.png"
+    },
+    {
+      "Model": "Amazfit Bip",
+      "Screen": "Reflective low-power color display 1.28 Inch",
+      "Resolution": "176 x 176",
+      "Memory": "-",
+      "Connectivity": "Bluetooth, GPS",
+      "Battery": "190mAh - 45 Days",
+      "Sensors": "Pedometer, Cardiac PPG, Geomagnetic, Air Pressure, GPS + Glonass",
+      "Tracking": "Sport, Sleep monitor, Sedentary Reminder, Distance, Calories, Steps, Heart rate",
+      "Notifications": "Yes – Vibration Feedback and On Screen Alerts",
+      "WaterResistance": "IP68",
+      "videoId": "cIjH7py0fcY",
+      "Price": "$$$",
+      "url": "../img/products/amazfit-bip.png"
+    },
+    {
+      "Model": "Amazfit Verge",
+      "Screen": "AMOLED",
+      "Resolution": "360 x 360 Pixels",
+      "Memory": "4GB (1.9GB user available)",
+      "Connectivity": "Bluetooth, GPS & GLONASS",
+      "Battery": "390 mAh - 5 Days",
+      "Sensors": "Accelerometer, Heart Rate, Light, Compass/Magnetometer, Vibration/Haptics engine",
+      "Tracking": "Sport, Sleep monitor,  Distance, Calories, Steps, Heart rate",
+      "Notifications": "Yes – Activity Alert, SMS, Email, Incoming Call Alert, Calendar Reminder, Weather Forecast",
+      "WaterResistance": "Up to 1 meter (or 3.3 feet) for up to 30 mins",
+      "videoId": "MPWtrlGq6n0",
+      "Price": "$$$",
+      "url": "../img/products/amazfit-verge.png"
+    }
+  ]
+}

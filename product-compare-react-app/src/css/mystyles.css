@@ -1,0 +1,23 @@
+.react-bootstrap-table thead th div {
+    height: 50px;
+    text-align: center; 
+}
+
+.react-bootstrap-table thead th div span{
+    float: right;
+    width: 100%;
+    text-align: center;
+}
+
+.header-class{
+    background-color: #C8E6C9
+}
+.broadcom{
+    background-color: white
+}
+
+.react-bootstrap-table table .table-striped .table-hover .table-bordered tr td:nth-child(1) {
+    font-weight: 600
+}
+
+
